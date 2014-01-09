@@ -20,6 +20,7 @@ box-shadow: 0 0 10px #ccc;
 #main {
 padding: 25px 5px 0;
 width: 950px;
+margin: 5px auto;
 }
 
 #menu-and-search {
@@ -51,7 +52,7 @@ margin-top: 20px;
   background: #e1e1e1;
   border: 1px solid #d1d1d1;
   border-radius: 2px;
-  margin: 23px auto 0;
+  margin: 20px auto;
   width: 920px;
   padding: 15px;
 }
@@ -64,10 +65,14 @@ margin-top: 20px;
   height: 15px;
   padding-left: 15px;
   width: 960px;
-  margin: 20px auto -15px;
+  margin: 5px auto -20px;
 }
-/* Side Bar */
 
+.breadcrumb {
+  padding: 3px 0 0;
+}
+
+/* Side Bar */
 .sidebar .block {
   margin-bottom: 10px;
 }
