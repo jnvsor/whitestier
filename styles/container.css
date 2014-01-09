@@ -120,6 +120,10 @@ margin-top: 20px;
   padding: 0;
 }
 
+.sidebar .block-book ul {
+  padding-left: 10px;
+}
+
 #sidebar-left {
 float: left;
 }
