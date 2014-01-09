@@ -41,7 +41,6 @@
                 </div>
             <?php endif; //search-box ?>
             </div><?php //menu-and-search ?>
-            <?php if($is_front): ?>
             <div id="branding-wrapper">
                 <div id="branding">
                 <?php if ($logo): ?>
@@ -62,7 +61,6 @@
                 <?php endif; //name-slogan-wrapper ?>
                 </div><?php //branding ?>
             </div>
-            <?php endif; //branding-wrapper ?>
         </div><?php //header ?>
             
 

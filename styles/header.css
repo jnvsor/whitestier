@@ -1,7 +1,6 @@
 /* Header */
 
 .front #header {
-  height: 140px;
   margin: 0 auto;
   width: 960px;
 }
@@ -243,19 +242,20 @@ height: 31px;
 
 /* Branding Section */
 #branding-wrapper {
-  display: inline;
+  display: block;
   margin: 0 auto;
   width: 960px;
 }
 
 #branding {
-  float: left;
   height: 72px;
+  border-radius: 5px;
+  margin: 5px auto;
 }
 
 .logo {
   float: left;
-  margin-top: 20px;
+  margin: 10px 10px 0;
 }
 
 .logo img {
@@ -264,7 +264,7 @@ height: 31px;
 
 #name-slogan-wrapper {
   float: left;
-  padding-top: 30px;
+  padding-top: 20px;
 }
 
 #name-slogan-wrapper h1 {
@@ -295,7 +295,7 @@ height: 31px;
 /* Big Top */
 #big-top {
   clear: both;
-  margin: 0 auto;
+  margin: 5px auto;
   width: 960px;
   border-radius: 5px;
   box-shadow: 0 0 10px #888;
