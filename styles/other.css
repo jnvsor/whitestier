@@ -40,6 +40,14 @@
   margin: 0 0 12px 0;
 }
 
+#main-content>.tabs {
+  margin: 0;
+}
+
+#main-content>.tabs>ul {
+  margin-bottom: 12px;
+}
+
 .not-logged-in #main-content .tabs {
   margin: 0;
 }
