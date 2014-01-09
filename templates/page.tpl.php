@@ -61,11 +61,6 @@
                     </div>
                 <?php endif; //name-slogan-wrapper ?>
                 </div><?php //branding ?>
-                <?php if ($page['top_note']): ?>
-                    <div class="top-note">
-                        <?php print render($page['top_note']); ?>
-                    </div>
-                <?php endif; //top-note ?>
             </div>
             <?php endif; //branding-wrapper ?>
         </div><?php //header ?>

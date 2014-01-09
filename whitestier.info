@@ -12,7 +12,6 @@ stylesheets[all][] = styles/other.css
 
 regions[search_box] = Search region
 regions[highlighted] = Highlighted
-regions[top_note] = Top note
 regions[big_top] = Big Top
 regions[bottom_note] = Bottom note
 regions[footer_note] = Footer note
